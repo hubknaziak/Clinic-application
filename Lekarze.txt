@@ -1,0 +1,4 @@
+12,Irena,Michalak,Pediatra
+17,Anna,Kozlowska,Okulista
+20,Karol,Polakowski,Chirurg
+47,Antek,Kantek,Chirurg

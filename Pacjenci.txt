@@ -1,0 +1,7 @@
+Maciej,Slowik,98092111357
+Karol,Kot,98092111321
+Anna,Michalak,98092111345
+Kamil,Dorociak,98092111987
+Antoni,Kolodziejczyk,980921456
+Arek,Polka,98093411345
+Jan,Nowak,98092111456
